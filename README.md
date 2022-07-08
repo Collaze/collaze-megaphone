@@ -7,6 +7,6 @@
 ---
 
 ## Requirements
-- [FiveM by cfx.re](https://fivem.net/)
+- [FiveM by Cfx.re](https://fivem.net/)
 - [FiveM server](https://docs.fivem.net/docs/server-manual/setting-up-a-server/) (We recommend [Zap-Hosting](https://zap-hosting.com/en/).)
 - [PMA-Voice](https://github.com/AvarianKnight/pma-voice/) (With native audio & submixes enabled)
