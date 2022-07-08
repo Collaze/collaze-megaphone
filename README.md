@@ -10,3 +10,10 @@
 - [FiveM by Cfx.re](https://fivem.net/)
 - [FiveM server](https://docs.fivem.net/docs/server-manual/setting-up-a-server/) (We recommend [Zap-Hosting](https://zap-hosting.com/en/).)
 - [pma-voice](https://github.com/AvarianKnight/pma-voice/) (With native audio & submixes enabled)
+
+## Installation
+- Download the script and put it in your scripts directory.
+- Add the following code to your server.cfg/resouces.cfg
+```
+start collaze-megaphone
+```
