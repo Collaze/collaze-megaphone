@@ -1,1 +1,2 @@
-# collaze-megaphone
+# FiveM Megaphone
+a.k.a. collaze-megaphone
