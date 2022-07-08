@@ -1,3 +1,5 @@
+[![GitHub latest release](https://img.shields.io/github/downloads/Collaze/collaze-megaphone/latest/total?label=latest-release&logo=GitHub)](https://github.com/Collaze/collaze-megaphone/releases/latest)
+
 # Collaze's Megaphone
 ### a.k.a. collaze-megaphone
 #### Megaphone for FiveM (pma-voice)
