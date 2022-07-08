@@ -5,4 +5,4 @@
 
 ## Requirements
 - [FiveM by cfx.re](https://fivem.net/)
-- FiveM Server (We recommend zap-hosting: https://zap-hosting.com/en/)
+- FiveM Server (We recommend [zap-hosting](https://zap-hosting.com/en/))
